@@ -14,6 +14,7 @@
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
   --card-bg-color: #efefef;
+  --pub-button-color: #45a05e;
   .fa-sun {
     display : none;
   }
@@ -36,6 +37,7 @@ html[data-theme='dark'] {
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
   --card-bg-color: #777766;
+  --pub-button-color: #fb3;
 
   .fa-sun {
     padding-left: 10px;

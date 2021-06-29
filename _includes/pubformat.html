@@ -14,25 +14,25 @@
    {{ pub.date | date: "%Y" }}
   </span><br/>
     {% if pub.url_source %}
-      <a type="button" id="pubbutton" target="_blank" class="btn btn-outline-info" href="{{ pub.url_source }}">
+      <a type="button" id="pubbutton" target="_blank" class="btn btn-outline" href="{{ pub.url_source }}">
       Publisher version
       </a>
     {% endif %}
 
     {% if pub.url_preprint %}
-      <a type="button" id="pubbutton" target="_blank" class="btn btn-outline-info" href="{{ pub.url_preprint }}">
+      <a type="button" id="pubbutton" target="_blank" class="btn btn-outline" href="{{ pub.url_preprint }}">
       arXiv
       </a>
     {% endif %}
 
     {% if pub.url_pdf %}
-      <a type="button" id="pubbutton" target="_blank" class="btn btn-outline-info" href="{{ pub.url_pdf | prepend: '/assets/pdf/' | relative_url }}">
+      <a type="button" id="pubbutton" target="_blank" class="btn btn-outline" href="{{ pub.url_pdf | prepend: '/assets/pdf/' | relative_url }}">
       PDF
       </a>
     {% endif %}
 
     {% if pub.url_code %}
-      <a type="button" id="pubbutton" target="_blank" class="btn btn-outline-info" href="{{ pub.url_code }}">
+      <a type="button" id="pubbutton" target="_blank" class="btn btn-outline" href="{{ pub.url_code }}">
       Source code
       </a>
     {% endif %}
