@@ -8,7 +8,7 @@
       <img src=" {{ photo | prepend: '/assets/img/' | relative_url }}" alt="member thumbnail">
       <div class="card-body">
         <h2 class="card-title">{{ member.name }}</h2>
-        <p class="card-text">{{ member.title }} <a href="mailto:{{ member.email }}"><i class="fas fa-envelope" style='padding-left: 10px;'></i></a></p>
+        <p class="card-text" id="title">{{ member.title }} <a href="mailto:{{ member.email }}"><i class="fas fa-envelope" style='padding-left: 10px;'></i></a></p>
 
         {% if member.education %}
         <p class="card-text">

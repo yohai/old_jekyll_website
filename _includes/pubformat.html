@@ -4,7 +4,7 @@
   </span><br/>
   <span>
     {% for author in pub.authors %}
-      {{ author }},
+      {{ author }}{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
   </span><br/>
   <span class="journal">
