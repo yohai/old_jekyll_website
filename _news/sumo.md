@@ -10,3 +10,5 @@ video: sumo.mp4
 <video muted autoplay controls>
   <source src="{{ page.video | prepend: '/assets/img/' | relative_url }}" type="video/mp4">
 </video>
+
+I won eventually, but not before [Matan Yah](https://www.mybz.org/) gave a legendary fight.
