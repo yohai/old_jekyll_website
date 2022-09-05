@@ -18,6 +18,14 @@
     Théo is working on understanding the dynamics of deep neural 
     network training using tools from statistical physics (Langevin dynamics, etc.)
 
+- name: Neri Berman
+  title: PhD student
+  photo: Neri.jpg
+  email: neriberman@gmail.com
+  info: >
+    Neri is studying earthquake statistics with physics-inspired ML. This is a collaboration with 
+    the Google TLV Research team.
+
 - name: Amit Federbush
   title: Master student
   photo: amit.jpg
