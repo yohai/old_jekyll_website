@@ -18,3 +18,5 @@ _styles: "li,h1,.jekyll-twitter-plugin{direction: rtl; text-align:right}"
 - סערת מוליכות העל בטמפרטורת החדר
 (או: פחד ותיעוב בלוס אלמוס)
 {% twitter https://twitter.com/yohaibs/status/1029229511743815680 %}
+- איך מודדים תזוזות קרקע קטנות מלווין
+{% twitter https://twitter.com/yohaibs/status/1481218232379973634 %}
