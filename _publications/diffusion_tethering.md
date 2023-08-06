@@ -4,7 +4,7 @@ date: 2023-08-01T00:00:00
 draft: false
 
 authors: [
-    "Anit Federbush",
+    "Amit Federbush",
     "Amit Moscovich",
     "Yohai Bar-Sinai",
     ]
