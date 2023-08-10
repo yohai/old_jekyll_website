@@ -9,14 +9,14 @@
     I mostly hang around the other people making sure they're not too productive.
     Since September 2019 I'm also a visitng professor in Google Research, Tel Aviv.
   
-- name: Théo Jules
-  title: Postdoctoral fellow
-  photo: Theo.jpg
-  email: theo.jules.physics@gmail.com
-  education: ["PhD, Ecole Normale Superiéure, Paris, 2020"]
-  info: >
-    Théo is working on understanding the dynamics of deep neural 
-    network training using tools from statistical physics (Langevin dynamics, etc.)
+# - name: Théo Jules
+#   title: Postdoctoral fellow
+#   photo: Theo.jpg
+#   email: theo.jules.physics@gmail.com
+#   education: ["PhD, Ecole Normale Superiéure, Paris, 2020"]
+#   info: >
+#     Théo is working on understanding the dynamics of deep neural 
+#     network training using tools from statistical physics (Langevin dynamics, etc.)
 
 - name: Neri Berman
   title: PhD student
@@ -45,16 +45,14 @@
    to study disordered metamaterials and understand emergent phenomena such as the collapse
    dynamics, localization properties and more.
 
-
-- name: Nir Zadok
+- name: Yamin Ben-Shimon
+  photo: yamin.jpg
   title: Master student
-  photo: Nir.jpg
-  email: nirzadok@mail.tau.ac.il
+  
   info: >
-   Nir is looking at extensions of our [recent paper about calculating entropy 
-   with machine learning](https://doi.org/10.1073/pnas.2017042117). He's trying
-   to apply the method to disordered systems with non stationary dynamics (e.g. 
-   the Kovacs effect) and look at entropy generation.
+   Yamin is working on incorporating our [Neural-based method for calculating entropy](https://doi.org/10.1073/pnas.2017042117) 
+   into molecular dynamics simulations. The aim is to use neurally-estimated entropy as a collective variable in MD simulations
+   that would allow effective sampling of entropically stabilized phases. Yamin is co-advised by [Dr. Barak Hirshberg](https://hirshberg-group.webflow.io/) from the school of Chemistry.
 
 
 # - name: "This could be you !"
