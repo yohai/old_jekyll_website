@@ -1,5 +1,5 @@
 ---
-title: "Grokking in Linear Estimators - A Solvable Model that Groks without Understanding"
+title: "Grokking in linear estimators - a solvable model that groks without understanding"
 date: 2023-10-25T00:00:00
 draft: false
 
